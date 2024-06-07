@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ezhilarasu-v-r-4745192a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezhilarasu-v-r-4745192a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="Ezhilarasu Vr" target="https://www.facebook.com/profile.php?id=61554015064630&mibextid=ZbWKwL"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554015064630&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com" target="https://www.instagram.com/itsezhil_?igsh=Z2tvbDIxcnZqcWtx"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsezhil_?igsh=z2tvbdixcnzqcwtx" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsezhil_?igsh=Z2tvbDIxcnZqcWtx" target="https://www.instagram.com/itsezhil_?igsh=Z2tvbDIxcnZqcWtx"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itsezhil_?igsh=z2tvbdixcnzqcwtx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
